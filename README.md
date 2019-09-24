@@ -1,5 +1,5 @@
 # QDDevanagari
-Quick &amp; Dirty Devanagari&lt;->IAST conversion library in C#, released under MIT license.
+Quick &amp; Dirty Devanagari&lt;->IAST conversion library in C#, released under MIT license.  The included project and solution files are buildable with Visual Studio 2015 (and probably later versions as well, although I haven't tested this).
 
 This is a small single-C#-file library for doing simple string conversions between the Devanagari subset used in Sanskrit, and the International Alphabet of Sanskrit Transliteration (IAST) transliteration scheme.  A simple Windows tool utilizing the library is included.
 
